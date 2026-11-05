@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-11-05T03:32:49.144504354Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-11-05T03:36:00.684082601Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "01a15251-f6f7-71e4-a41b-457071d9c652",
     "homepageId": "01a1a99e-d098-7973-8d25-24f6c241a467"
@@ -1796,7 +1796,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "A Day We’ll Remember"
               },
               "gallery": {
                 "title": "Special Offers",
