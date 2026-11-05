@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2026-11-05T03:43:23.510225705Z",
+    "version": "1.16.0",
+    "generatedAt": "2026-11-05T03:46:28.129167599Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "01a15251-f6f7-71e4-a41b-457071d9c652",
     "homepageId": "01a1a99e-d098-7973-8d25-24f6c241a467"
@@ -1854,7 +1854,7 @@
                     "id": "01a1a9cb-dedb-70b6-984c-3c3e2db899c1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a99e-d098-7973-8d25-24f6c241a467/index_signature/1793850072500-hz40r47m3t.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "한적한 자연 풍경 속에 자리한 여유로운 휴식의 시간",
                     "isSelected": true,
                     "blockId": null
                   }
