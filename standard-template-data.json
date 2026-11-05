@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-11-05T03:16:25.718328713Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-11-05T03:21:28.835551680Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "01a15251-f6f7-71e4-a41b-457071d9c652",
     "homepageId": "01a1a99e-d098-7973-8d25-24f6c241a467"
@@ -1930,6 +1930,52 @@
                     }
                   ],
                   "blockId": "b64cc2ae-6a49-4f08-a172-5c4a95d535b1",
+                  "description": ""
+                },
+                {
+                  "title": "Private BBQ",
+                  "images": [
+                    {
+                      "id": "01a1a9b9-c688-7c4f-b9b3-bdc26a1fbef2",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a99e-d098-7973-8d25-24f6c241a467/main_about/1793848886656-lcf1znxrmg.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "e729b728-f829-49ad-a487-6dd8ec92638a"
+                    },
+                    {
+                      "id": "01a1a9b9-c702-7155-bed9-2413dadb52b8",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a99e-d098-7973-8d25-24f6c241a467/main_about/1793848886658-kn10unddci.jpg",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "e729b728-f829-49ad-a487-6dd8ec92638a"
+                    }
+                  ],
+                  "blockId": "e729b728-f829-49ad-a487-6dd8ec92638a",
+                  "description": ""
+                },
+                {
+                  "title": "Healing Place",
+                  "images": [
+                    {
+                      "id": "01a1a9b9-c6d5-76c1-88a9-027cf69c038f",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a99e-d098-7973-8d25-24f6c241a467/main_about/1793848886658-jgjgdlk4rt.jpg",
+                      "sortOrder": 5,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "edd3790b-e865-46ee-8a8f-59f64b826dc5"
+                    },
+                    {
+                      "id": "01a1a9b9-c70c-7824-96ef-b690ccfdddb4",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a99e-d098-7973-8d25-24f6c241a467/main_about/1793848886646-fzjrtou14e.jpg",
+                      "sortOrder": 6,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "edd3790b-e865-46ee-8a8f-59f64b826dc5"
+                    }
+                  ],
+                  "blockId": "edd3790b-e865-46ee-8a8f-59f64b826dc5",
                   "description": ""
                 }
               ]
