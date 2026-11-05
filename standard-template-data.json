@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-11-05T03:43:07.402548803Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-11-05T03:43:23.510225705Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "01a15251-f6f7-71e4-a41b-457071d9c652",
     "homepageId": "01a1a99e-d098-7973-8d25-24f6c241a467"
@@ -1814,7 +1814,7 @@
                     "id": "01a1a9ca-ca9d-73b6-831d-d0c9ce50571d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a99e-d098-7973-8d25-24f6c241a467/index_gallery/1793850001627-jgusade6xe.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "불빛에 반짝이는 물결",
                     "isSelected": true,
                     "blockId": null
                   },
