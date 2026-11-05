@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2026-11-05T03:53:51.376564259Z",
+    "version": "1.24.0",
+    "generatedAt": "2026-11-05T03:56:10.931005969Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "01a15251-f6f7-71e4-a41b-457071d9c652",
     "homepageId": "01a1a99e-d098-7973-8d25-24f6c241a467"
@@ -22,12 +22,12 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20:00 이후 체크인 시 사전 문의 필요",
-    "usageGuide": "[공지사항]\n- 22:00부터 매너타임입니다.\n- 애견 동반 불가합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20:00 이후 체크인 시 사전 문의 필요\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 영유아 기준인원 포함 및 최대인원 초과 시 펜션 문의 \n※ 침구류 추가 요청 시 1Set 10,000원\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 1층 야외 테라스\n- 바베큐 형태: 숯불 또는 가스버너+그리들\n- 제공 구성: 숯, 그릴\n- 이용 요금: 숯+그릴 1set 20,000원 / 가스버너+그리들 1set 10,000원 (현장결제)\n- 버너 추가: 10,000원\n- 숯불 추가: 20,000원\n- 신청 시간: ~21:00\n- 준비 소요시간: 60분\n- 이용 시간: 15:00~24:00\n- 우천 시: 이용 가능\n※ 개인 버너, 전기/가스그릴, 숯 지참 불가\n\n[공용수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 하절기\n- 이용 기간:5월~9월\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 21:00\n- 이용 복장: 래쉬가드, 수영복, 물 빠짐 없는 옷, 아쿠아슈즈 착용 필수\n- 수영장 크기: 20M x 6M x 80~90CM\n- 우천 시 이용 가능\n\n[개별수영장]\n- 이용 객실: 1~5동 객실\n- 운영 계절: 하절기\n- 이용 기간:5월~9월\n- 온도: 냉수\n- 이용 요금: 40,000원(1박기준/현장결제)\n※ 찬물 신청 시 가능\n- 이용 복장: 래쉬가드, 수영복, 물빠짐 없는 옷, 아쿠아슈즈 착용 필수\n- 수영장 크기: 6M x 2M x 60CM~70CM\n- 우천 시 이용 가능\n※ 이용 시간은 제한 없음\n※ 입실 1일 전 사전예약 필수, 영유아/어린이는 보호자 동반 필수\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n- 소화기 보유\n\n[주변여행지]\n- 경주 동궁원 차량 3분\n- 보문관광단지 차량 9분\n- 경주월드 차량 9분\n- 강동 워터파크 차량 10분\n- 황리단길 차량 16분\n- 불국사 차량 18분",
+    "usageGuide": "- 22:00부터 매너타임입니다.\n- 애견 동반 불가합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20:00 이후 체크인 시 사전 문의 필요\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 영유아 기준인원 포함 및 최대인원 초과 시 펜션 문의 \n※ 침구류 추가 요청 시 1Set 10,000원\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 1층 야외 테라스\n- 바베큐 형태: 숯불 또는 가스버너+그리들\n- 제공 구성: 숯, 그릴\n- 이용 요금: 숯+그릴 1set 20,000원 / 가스버너+그리들 1set 10,000원 (현장결제)\n- 버너 추가: 10,000원\n- 숯불 추가: 20,000원\n- 신청 시간: ~21:00\n- 준비 소요시간: 60분\n- 이용 시간: 15:00~24:00\n- 우천 시: 이용 가능\n※ 개인 버너, 전기/가스그릴, 숯 지참 불가\n\n[공용수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 하절기\n- 이용 기간:5월~9월\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 21:00\n- 이용 복장: 래쉬가드, 수영복, 물 빠짐 없는 옷, 아쿠아슈즈 착용 필수\n- 수영장 크기: 20M x 6M x 80~90CM\n- 우천 시 이용 가능\n\n[개별수영장]\n- 이용 객실: 1~5동 객실\n- 운영 계절: 하절기\n- 이용 기간:5월~9월\n- 온도: 냉수\n- 이용 요금: 40,000원(1박기준/현장결제)\n※ 찬물 신청 시 가능\n- 이용 복장: 래쉬가드, 수영복, 물빠짐 없는 옷, 아쿠아슈즈 착용 필수\n- 수영장 크기: 6M x 2M x 60CM~70CM\n- 우천 시 이용 가능\n※ 이용 시간은 제한 없음\n※ 입실 1일 전 사전예약 필수, 영유아/어린이는 보호자 동반 필수\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n- 소화기 보유\n\n[주변여행지]\n- 경주 동궁원 차량 3분\n- 보문관광단지 차량 9분\n- 경주월드 차량 9분\n- 강동 워터파크 차량 10분\n- 황리단길 차량 16분\n- 불국사 차량 18분",
     "reservationGuide": "- 22:00부터 매너타임입니다.\n- 애견 동반 불가합니다.",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "shimandpool.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/13688",
     "ybsId": "",
     "tripPropertyId": "13688",
     "partnerType": "distributor_b",
@@ -351,7 +351,7 @@
           {
             "id": "01a1a0a4-0734-7572-8e67-eeb7d78b3ac1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/5GJOH8PLRnTX.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -361,7 +361,7 @@
           {
             "id": "01a1a0a4-0734-78e5-9252-f445ddab2e90",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/euA7nRqZ8Mmb.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -369,7 +369,7 @@
           {
             "id": "01a1a0a4-0734-792c-b069-51df9298131f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/oI6lku7rKmYt.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -377,7 +377,7 @@
           {
             "id": "01a1a0a4-0734-7941-85cd-02d16e7b666e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/uM7knxIi3fBZ.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -385,7 +385,7 @@
           {
             "id": "01a1a0a4-0734-7953-b40a-b1ce94e54c38",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/eadDZfP0FuRH.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -393,7 +393,7 @@
           {
             "id": "01a1a0a4-0734-7967-a696-a3ab9bab2c9d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/9ax5zJIrPC8U.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -401,7 +401,7 @@
           {
             "id": "01a1a0a4-0734-797b-a9f2-30207cb7c6dc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/mly0OJkHZCfw.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -409,7 +409,7 @@
           {
             "id": "01a1a0a4-0734-7990-90f3-cf153adbd2ce",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/2hNME0DzCdGQ.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -417,7 +417,7 @@
           {
             "id": "01a1a0a4-0734-79a2-94ae-9fa0911e6f64",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/sATL6qpV8dMN.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -425,7 +425,7 @@
           {
             "id": "01a1a0a4-0734-79b2-9807-00335a983509",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/9zVJhyIx0EdB.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -433,7 +433,7 @@
           {
             "id": "01a1a0a4-0734-79c2-b97a-2c00aa2b5cb0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/EpJNXgwhyrFD.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -441,7 +441,7 @@
           {
             "id": "01a1a0a4-0734-79d3-bf1d-80ce250bcb52",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/9R7uMJWnoB1x.jpg",
-            "sortOrder": 12,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2015,7 +2015,7 @@
                     }
                   ],
                   "blockId": "b64cc2ae-6a49-4f08-a172-5c4a95d535b1",
-                  "description": ""
+                  "description": "시원한 물결과 함께하는 프라이빗 공간에서\n편안한 휴식과 즐거운 시간을 경험해보세요.\n"
                 },
                 {
                   "title": "Private BBQ",
