@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.32.0",
-    "generatedAt": "2026-11-05T05:20:51.657864395Z",
+    "version": "1.33.0",
+    "generatedAt": "2026-11-05T05:21:56.306136607Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "01a15251-f6f7-71e4-a41b-457071d9c652",
     "homepageId": "01a1a99e-d098-7973-8d25-24f6c241a467"
@@ -1910,7 +1910,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "Some Days Are Made for Wandering",
                 "images": [
                   {
                     "id": "01a1a9b5-2632-7578-a5b5-ff2a2b9de799",
