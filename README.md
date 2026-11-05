@@ -1,1 +1,1 @@
-# shimandpool
+# template-full-banner-slider-flat Template
